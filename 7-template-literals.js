@@ -1,5 +1,6 @@
 /**
  * Template literals are useful in embedding variables into a strin of text
+ * We use the back ticks in js ``
  * Useful in writing multi-line statements
  * We can perform js calculations inside of them
  */
