@@ -2,4 +2,6 @@
 
 - Variable naming
 - Linking external js files
-- datatypes
+- Datatypes
+- Differentiating let, const & var
+- Basic operators
