@@ -31,3 +31,18 @@ switch (
   default:
     console.log('No activity to be performed 🤪 Invalid day');
 }
+
+/**
+ * Rewriting above statement in if else if else block
+ */
+
+// if (day === 'Monday') {
+// } else if (day === 'Tuesday') {
+// } else if (day === 'Wednesday' || day === 'Thursday') {
+// } else if (day === 'Friday') {
+// } else if (day === 'Saturday') {
+// } else if (day === 'Sunday') {
+//   console.log('Rest day!!!');
+// } else {
+//   console.log('Invalid  day');
+// }
